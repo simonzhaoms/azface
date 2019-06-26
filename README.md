@@ -1,3 +1,5 @@
+**Development Moved** to https://github.com/Azure/azface
+
 # Face Recognition Service #
 
 This [MLHub](https://mlhub.ai) package provides a quick introduction
